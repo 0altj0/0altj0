@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi I'm Miseo👋
 
 <!--
 **0altj0/0altj0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
